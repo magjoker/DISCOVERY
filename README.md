@@ -8,6 +8,6 @@ This Application is a Portfolio for me. As I complete more of the weekly challan
 I agree with the what you said here about the first repo name, but I was starting a theme to name all my repos after Daft Punk albums. Probably not the best for employers though. 
 It would help if I submitted my assignments on time haha.  
 
-The real repo name should be "J. Aragon Developer Portfolio" 
+The real repo name should be "J-Aragon-Developer-Portfolio"
 
 I created this applcation so that potential employers can see what I'm capable of.
