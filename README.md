@@ -10,4 +10,4 @@ It would help if I submitted my assignments on time haha.
 
 The real repo name should be "J-Aragon-Developer-Portfolio"
 
-I created this applcation so that potential employers can see what I'm capable of.
+I created this applcation so that I can showcase my best web projects.
