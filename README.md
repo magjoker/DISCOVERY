@@ -1,5 +1,6 @@
 # DISCOVERY
-<img width="1219" alt="Screen Shot 2023-01-08 at 8 26 34 PM" src="https://user-images.githubusercontent.com/118233640/211236872-9b0650c5-6e28-45e9-9faa-f729dcd1cb26.png">
+
+<img width="1214" alt="Screen Shot 2023-01-10 at 12 07 34 PM" src="https://user-images.githubusercontent.com/118233640/211639762-0d3520db-4480-4960-bb2a-98013741e6c8.png">
 
 This Application is a Portfolio for me. As I complete more of the weekly challanges they will end up on this webpage.  
 
